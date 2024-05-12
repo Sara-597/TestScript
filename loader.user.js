@@ -18,6 +18,6 @@
   const script = document.createElement("script");
   script.type = "module";
   script.setAttribute("crossorigin", "anonymous");
-  script.src = `https://sara-597.github.io/TestScript/test.js?v=${Date.now()}`;
+  script.src = `https://sara-597.github.io/TestScript/test.ts?v=${Date.now()}`;
   document.head.appendChild(script);
 })();

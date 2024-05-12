@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name Themed BC
 // @namespace https://www.bondageprojects.com/
-// @version 1.1.0
-// @description Bondage Club with themes!
-// @author  dDeepLb
+// @version 0.1
+// @description idk
+// @author  Sara597
 // @match https://bondageprojects.elementfx.com/*
 // @match https://www.bondageprojects.elementfx.com/*
 // @match https://bondage-europe.com/*
